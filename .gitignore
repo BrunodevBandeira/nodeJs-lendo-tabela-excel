@@ -1,7 +1,7 @@
-/node_modules/
+node_modules
 # Keep environment variables out of version control
-/.env/
-/22_alibaba_azul_opa.csv/
-/33_alibaba_roza_csv.csv/
-/44_alibaba_salmao_csv.csv/
-/lista.csv/
+.env
+22_alibaba_azul_opa.csv
+33_alibaba_roza_csv.csv
+44_alibaba_salmao_csv.csv
+lista.csv
